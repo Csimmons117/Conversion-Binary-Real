@@ -37,8 +37,8 @@ Each of these values are provided to the program as strings. The following demon
    ```
 The program is structured with the following files:
 
-  * `strtol.{j,s}`: a refactored version of your nextInt method 
-  * `whole2bin.{j,s}`: a method that converts a base10 integer to binary
-  * `fractional2bin.{j,s}`: a method that converts base10 fractional value to binary
+  * `strtol.{j,s}`: a refactored version of your nextInt method provided by Cameron 
+  * `whole2bin.{j,s}`: a method that converts a base10 integer to binary provided by Cameron 
+  * `fractional2bin.{j,s}`: a method that converts base10 fractional value to binary provided by Cameron 
   * `binaryReal.{j,s}`: a driver method provided by the Professor
   * `strtofrac.{j,s}`: a conversion method provide by the Professor
