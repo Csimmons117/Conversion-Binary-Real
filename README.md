@@ -1,6 +1,6 @@
 # Conversion-Binary-Real
  Computer Architecture Class
-# Exam #4: Conversion Binary Real
+# Conversion Binary Real
 
 ## Overview:
 
