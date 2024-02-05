@@ -1,7 +1,5 @@
 # Conversion-Binary-Real
  Computer Architecture Class
-# Conversion Binary Real
-
 ## Overview:
 
 We can represent any real number in any base using sharp notation. Consider the following examples, which all represent the decimal number: `198.5`,
