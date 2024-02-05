@@ -1,0 +1,142 @@
+make[1]: Entering directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117'
+cd java ; make test_java ; cd ..
+make[2]: Entering directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117/java'
+2# 10011010010.01101110100111100001101 <- Correct output
+2# 10011010010.01101110100111100001101
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:         10; 0x00 00 00 0A; 0b0000 0000 0000 0000 0000 0000 0000 1010;
+
+Correct V0: 10
+
+2# 1111101011001110.11011110101010110011011 <- Correct output
+2# 1111101011001110.11011110101010110011011
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:         16; 0x00 00 00 10; 0b0000 0000 0000 0000 0000 0000 0001 0000;
+
+Correct V0: 16
+
+2# 1010011100.10001010001111010111000 <- Correct output
+2# 1010011100.10001010001111010111000
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          8; 0x00 00 00 08; 0b0000 0000 0000 0000 0000 0000 0000 1000;
+
+Correct V0:  8
+
+2# 1010011100.100011 <- Correct output
+2# 1010011100.100011
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          8; 0x00 00 00 08; 0b0000 0000 0000 0000 0000 0000 0000 1000;
+
+Correct V0:  8
+
+make[2]: Leaving directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117/java'
+Previous HEAD position was 8fc123c JAVA CODE IS DONE
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+cd java_tac ; make test_java ; cd ..
+make[2]: Entering directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117/java_tac'
+2# 10011010010.01101110100111100001101 <- Correct output
+2# 10011010010.01101110100111100001101
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:         10; 0x00 00 00 0A; 0b0000 0000 0000 0000 0000 0000 0000 1010;
+
+Correct V0: 10
+
+2# 1111101011001110.11011110101010110011011 <- Correct output
+2# 1111101011001110.11011110101010110011011
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:         16; 0x00 00 00 10; 0b0000 0000 0000 0000 0000 0000 0001 0000;
+
+Correct V0: 16
+
+2# 1010011100.10001010001111010111000 <- Correct output
+2# 1010011100.10001010001111010111000
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          8; 0x00 00 00 08; 0b0000 0000 0000 0000 0000 0000 0000 1000;
+
+Correct V0:  8
+
+2# 1010011100.100011 <- Correct output
+2# 1010011100.100011
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          8; 0x00 00 00 08; 0b0000 0000 0000 0000 0000 0000 0000 1000;
+
+Correct V0:  8
+
+make[2]: Leaving directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117/java_tac'
+Previous HEAD position was d250f73 JAVA_TAC IS DONE
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+cd mips ; make test_mips ; cd ..
+make[2]: Entering directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117/mips'
+2# 10011010010.01101110100111100001101 <- Correct output
+2# 10011010010.01101110100111100001101
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:         10; 0x00 00 00 0A; 0b0000 0000 0000 0000 0000 0000 0000 1010;
+
+Correct V0: 10
+
+2# 1111101011001110.11011110101010110011011 <- Correct output
+2# 1111101011001110.11011110101010110011011
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:         16; 0x00 00 00 10; 0b0000 0000 0000 0000 0000 0000 0001 0000;
+
+Correct V0: 16
+
+2# 1010011100.10001010001111010111000 <- Correct output
+2# 1010011100.10001010001111010111000
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          8; 0x00 00 00 08; 0b0000 0000 0000 0000 0000 0000 0000 1000;
+
+Correct V0:  8
+
+2# 1010011100.100011 <- Correct output
+2# 1010011100.100011
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          8; 0x00 00 00 08; 0b0000 0000 0000 0000 0000 0000 0000 1000;
+
+Correct V0:  8
+
+make[2]: Leaving directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117/mips'
+Previous HEAD position was 571cdaf FIX MY MIPS EVERYTHING WORKS
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+make[1]: Leaving directory '/home/infinity/classes/comp122/deliverables/40-exam-mips-Csimmons117'
