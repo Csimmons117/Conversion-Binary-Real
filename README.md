@@ -24,7 +24,7 @@ The program is provided with five command-line arguments that represent the five
 
 Each of these values are provided to the program as strings. The following demonstrates the use of my program. (Note that program also returns the value of the radix of the input number.)
 
-###Java subroutine
+### Java subroutine
    ```bash
    $ java_subroutine -L '*.s' -S binaryReal 10 "#" 198 . 5 
    2# 11000110.1
@@ -35,7 +35,7 @@ Each of these values are provided to the program as strings. The following demon
    v0:         10; 0x00 00 00 0A; 0b0000 0000 0000 0000 0000 0000 0000 1010;
    ```
 
-###Mips subroutine
+### Mips subroutine
    ```bash
    $ mips_subroutine -L '*.s' -S binaryReal 10 "#" 198 . 5 
    2# 11000110.1
