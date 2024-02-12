@@ -26,7 +26,7 @@ Each of these values are provided to the program as strings. The following demon
 
 ### Java subroutine
    ```bash
-   $ java_subroutine -L '*.s' -S binaryReal 10 "#" 198 . 5 
+   $ java_subroutine -L '*.j' -S binaryReal 10 "#" 198 . 5 
    2# 11000110.1
    #########################################
    # Above is the output from your program
